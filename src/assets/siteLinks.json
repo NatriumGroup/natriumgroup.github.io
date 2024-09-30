@@ -15,12 +15,12 @@
     "link": "https://p.alipay.com/"
   },
   {
-    "icon": "LogoWechat",
+    "icon": "",
     "name": "微信服务商平台",
     "link": "https://pay.weixin.qq.com/index.php/partner/public/home"
   },
   {
-    "icon": "LogoWechat",
+    "icon": "",
     "name": "企业微信工作平台",
     "link": "wxwork://"
   },
