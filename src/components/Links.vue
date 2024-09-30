@@ -72,7 +72,6 @@ const siteIcon = {
   LaptopCode,
   Wpforms, 
   Alipay,
-  LogoWechat,
   Gratipay
 };
 
