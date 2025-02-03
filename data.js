@@ -19,5 +19,14 @@ const blacklistData = [
         bankCard: [''], 
         idCard: [''] 
     },
-    // 更多数据...
+        { 
+        qq: ['5511984'], 
+        qqNickname: ['诗诗'],
+        name: ['崔艳兰'],
+        phone: [''], 
+        alipay: [''], 
+        wechat: [''],
+        bankCard: [''], 
+        idCard: [''] 
+    },
 ];
