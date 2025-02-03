@@ -6,7 +6,7 @@ const blacklistData = [
         phone: [''],  // 多个手机号
         alipay: [''],  // 支付宝账号
         wechat: [''],  // 多个微信账号
-        bankCard: ['']  // 多个银行卡
+        bankCard: [''],  // 多个银行卡
         idCard: ['']  // 身份证也支持多个
     },
     { 
