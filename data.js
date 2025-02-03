@@ -10,14 +10,14 @@ const blacklistData = [
         idCard: ['']  // 身份证也支持多个
     },
     { 
-        qq: ['223344556', '998877665'], 
-        qqNickname: ['李四的QQ'],
-        name: ['李四'],
-        phone: ['15012345678', '15987654321'], 
-        alipay: ['lisi@alipay.com'], 
-        wechat: ['lisi_wechat'],
-        bankCard: ['6222020202023456'], 
-        idCard: ['110102199503078739'] 
+        qq: ['80037382'], 
+        qqNickname: ['南天门'],
+        name: [''],
+        phone: [''], 
+        alipay: [''], 
+        wechat: [''],
+        bankCard: [''], 
+        idCard: [''] 
     },
     // 更多数据...
 ];
