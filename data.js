@@ -29,4 +29,14 @@ const blacklistData = [
         bankCard: [''], 
         idCard: [''] 
     },
+    { 
+        qq: ['1535959373'],  // 多个 QQ
+        qqNickname: ['塔寨联盟林耀东-epay.huvbz.cn'],  // 多个 QQ 昵称
+        name: ['程中'],  // 姓名也支持多个
+        phone: [''],  // 多个手机号
+        alipay: [''],  // 支付宝账号
+        wechat: [''],  // 多个微信账号
+        bankCard: [''],  // 多个银行卡
+        idCard: ['']  // 身份证也支持多个
+    },
 ];
