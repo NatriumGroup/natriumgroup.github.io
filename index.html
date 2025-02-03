@@ -3,20 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>黑名单查询</title>
+    <title>易支付黑名单查询</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>黑名单查询系统</h1>
+        <h1>易支付黑名单查询系统</h1>
         <form id="searchForm">
             <label for="searchInput">请输入查询内容（QQ昵称、QQ号、姓名、手机号、支付宝账号、微信账号、银行卡、身份证）:</label>
             <input type="text" id="searchInput" placeholder="查询...">
             <button type="submit">查询</button>
+            <button id="btn">我要举报</button>
         </form>
         <div id="result">
             <p>请输入查询条件，系统会匹配黑名单数据。</p>
         </div>
+        <p>Powered by Natrium Group</p>
     </div>
 
     <script src="data.js"></script>
