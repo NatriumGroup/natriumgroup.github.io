@@ -20,11 +20,11 @@ const blacklistData = [
         idCard: [''] 
     },
         { 
-        qq: ['5511984'], 
-        qqNickname: ['诗诗'],
+        qq: ['5511984','3784621615','857350111','3177794450','1425228431'], 
+        qqNickname: ['杀神/诗诗','时间/财富','黑狼','北念','糖豆'],
         name: ['崔艳兰'],
         phone: [''], 
-        alipay: [''], 
+        alipay: ['15852252743'], 
         wechat: [''],
         bankCard: [''], 
         idCard: [''] 
