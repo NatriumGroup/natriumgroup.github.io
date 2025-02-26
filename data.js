@@ -32,7 +32,7 @@ const blacklistData = [
     { 
         qq: ['2454928288'],  // 多个 QQ
         qqNickname: ['猩猩'],  // 多个 QQ 昵称
-        name: [''],  // 姓名也支持多个
+        name: ['王义程'],  // 姓名也支持多个
         phone: [''],  // 多个手机号
         alipay: [''],  // 支付宝账号
         wechat: [''],  // 多个微信账号
